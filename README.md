@@ -22,7 +22,7 @@ http://www.modelbouwforum.nl/threads/poor-mans-vario.199904/
 
 Various designs including:
 * Arduino Mini Pro and MS5611 sensor
-* Arduino Mini Pro and the cheaper BPM180 sensor
+* Arduino Mini Pro and the cheaper BMP180 sensor
 * ATtiny85 with the BPM180 sensor (just 5 grams)
 
 ![](/images/PMV_schema.jpg)
