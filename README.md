@@ -16,7 +16,7 @@ Uses Arduino Nano and MS5611 sensor.
 
 ##Poor Man's Vario (PMV)
 
-By hmeijdam - derived from kk's design.
+By Hans Meijdam (hmeijdam) - derived from kk's design
 
 http://www.modelbouwforum.nl/threads/poor-mans-vario.199904/
 
