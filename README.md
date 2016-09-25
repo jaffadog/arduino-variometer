@@ -1,10 +1,11 @@
 # arduino-variometer
 
-Arduino based variometer projects from various sources.
+Arduino based variometer (vario) projects from various sources.
 
 ##Original
 
-By Rolf R Bakke (aka kapteinkuk, kk).
+By Rolf R Bakke (aka kapteinkuk, kk)
+
 http://www.rcgroups.com/forums/showthread.php?t=1749208
 
 Uses Arduino Nano and MS5611 sensor.
@@ -15,12 +16,21 @@ Uses Arduino Nano and MS5611 sensor.
 
 ##Poor Man's Vario (PMV)
 
-By hmeijdam.
+By hmeijdam - derived from kk's design.
+
 http://www.modelbouwforum.nl/threads/poor-mans-vario.199904/
 
-Final design uses the cheaper BPM180 sensor (this is the _poor_ man's vario), but also has a design for the MS5611 sensor.
+Various design including:
+* Arduino Mini Pro and MS5611 sensor
+* Arduino Mini Pro and the cheaper BPM180 sensor
+* ATtiny85 with the BPM180 sensor
 
-Sensor: MS5611
+!(/images/PMV_schema.jpg)
 
-Based on original work by Rolf R Bakke (aka kapteinkuk)
+!(/images/P1100857.jpg)
+
+!(/images/P1100858.jpg)
+
+!(/images/P1100859.jpg)
+
 
