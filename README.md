@@ -25,12 +25,12 @@ Various designs including:
 * Arduino Mini Pro and the cheaper BMP180 sensor
 * ATtiny85 with the BMP180 sensor (just 5 grams)
 
-![](/images/PMV_schema.jpg)
+![circuit](/images/PMV_schema.jpg)
 
-![](/images/P1100857.jpg)
+![piggyback](/images/P1100857.jpg)
 
-![](/images/P1100858.jpg)
+![sender](/images/P1100858.jpg)
 
-![](/images/P1100859.jpg)
+![complete](/images/P1100859.jpg)
 
 
